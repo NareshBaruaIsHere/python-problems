@@ -1,0 +1,9 @@
+Write a function that generates the first n numbers in the Fibonacci sequence, but with a twist:
+
+If the Fibonacci number is divisible by 3, replace it with "Fizz".
+
+If divisible by 5, replace it with "Buzz".
+
+If divisible by both 3 and 5, replace it with "FizzBuzz".
+
+Return the resulting list.
